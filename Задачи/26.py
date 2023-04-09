@@ -10,3 +10,5 @@ for k in range(n):
 
 for row in matrix:
     print(*row)
+
+print(matrix)
