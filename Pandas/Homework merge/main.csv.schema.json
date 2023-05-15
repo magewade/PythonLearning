@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "name": "ID",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Address",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
